@@ -1,5 +1,5 @@
 # MongoDB-With-pymongo
-A Simple CRUD Application using python and pymongo.
+A Simple CRUD Application using pymongo.
 
 [Install MongoDB](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/)
 
